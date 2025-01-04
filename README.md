@@ -1,3 +1,4 @@
 # Hogwarts Artifacts Online
-Technologies: 
-- Spring Boot, Spring JPA, Spring JWT, JUnit Test
+TechStacks: 
+- Technologies: Spring Boot, Spring JPA, Spring JWT, JUnit Test
+- Programming language: Java
